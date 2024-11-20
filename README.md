@@ -1,16 +1,10 @@
 # Car-color-detection
 
-Here's a **README** file script for your project. It provides a clear and structured description suitable for GitHub, addressing your specific dataset and `.keras` file constraints.
 
----
-
-# Vehicle Color Recognition and Detection
-
-This project implements a machine learning model to detect vehicles, identify their colors, and count nearby people from images or video feeds. The system provides real-time annotations by drawing colored rectangles based on the detected object.
 
 ## Features
 
-- **Vehicle Color Detection:** Recognizes the color of vehicles from a predefined set of colors (e.g., yellow, red, blue, etc.).
+- **Car Color Detection:** Recognizes the color of vehicles from a predefined set of colors (e.g., yellow, red, blue, etc.).
 - **Dynamic Annotations:**
   - **Blue Rectangle:** Drawn around vehicles of colors other than "blue."
   - **Red Rectangle:** Drawn around vehicles detected as "blue."
