@@ -177,7 +177,7 @@ The project uses the [VCOR - Vehicle Color Recognition Dataset](https://www.kagg
 4. Place the `.keras` model file:
 
    Due to its large size, the trained `.keras` model is not included in this repository. To use the pre-trained model:
-   - Download the model from this [Google Drive link](#) (replace with actual link).
+   - Download the model from this [[Google Drive link](https://drive.google.com/drive/folders/1qsjD8CMuT5IU3eQ2XtIxaIE2TESI6iet?usp=drive_link)](#) .
    - Save it in the root directory as `vehicle_color_model.keras`.
 
 ## Usage
